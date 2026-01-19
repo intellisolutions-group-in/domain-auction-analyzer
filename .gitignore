@@ -19,5 +19,4 @@ env/
 Thumbs.db
 
 # Project specific - keep CSV data out of repo (large files)
-unfiltered-domains-csv/
 Archeive/
